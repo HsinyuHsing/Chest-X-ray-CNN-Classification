@@ -1,4 +1,4 @@
-CNN Hands-on Practice
+# Chest X-ray CNN Classification
 
 Kaggle: Chest X-ray CNN Classification
 https://www.kaggle.com/competitions/cnn-hands-on-practice
